@@ -27,14 +27,14 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **19**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **3**      |           **2**           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
-| **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
-| **[Reconnaissance](#recon)**                      |     **10**      |                           |
-| **[Scripting](#scripting)**                       |      **7**      |                           |
-| **[Networking](#networking)**                     |      **7**      |                           |
-| **[Tooling](#tooling)**                           |     **19**      |                           |
+| **[Introductory Rooms](#intro-rooms)**            |     **19**      |              FIN             |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **3**      |           FIN          |
+| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                          |
+| **[Basic Rooms](#basics-rooms)**                  |     **13**      |             FIN              |
+| **[Reconnaissance](#recon)**                      |     **10**      |                FIN           |
+| **[Scripting](#scripting)**                       |      **7**      |             FIN              |
+| **[Networking](#networking)**                     |      **7**      |             FIN              |
+| **[Tooling](#tooling)**                           |     **19**      |            FIN               |
 | **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |            FIN               |
 | **[Steganography](#steganography)**               |      **6**      |            FIN               |
 | **[Web](#web)**                                   |     **30**      |                           |
