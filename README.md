@@ -35,8 +35,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Scripting](#scripting)**                       |      **7**      |                           |
 | **[Networking](#networking)**                     |      **7**      |                           |
 | **[Tooling](#tooling)**                           |     **19**      |                           |
-| **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |                           |
-| **[Steganography](#steganography)**               |      **6**      |                           |
+| **[Crypto & Hashes](#cryptography--hashes)**      |      **7**      |            FIN               |
+| **[Steganography](#steganography)**               |      **6**      |            FIN               |
 | **[Web](#web)**                                   |     **30**      |                           |
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |     **12**      |                           |
