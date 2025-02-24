@@ -411,8 +411,8 @@ In case you need deeper study into Linux read follow these:
 
 ## PrivEsc
 
-- [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
-- [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+- [x] [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
+- [x] [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
 - [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
 - [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
 - [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
