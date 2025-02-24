@@ -423,7 +423,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 - [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 - [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
-- [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- [x] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 ## Windows
 
