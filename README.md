@@ -318,7 +318,7 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-- [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [x] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
 - [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
@@ -420,7 +420,7 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 - [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 - [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
-- [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [x] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 - [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 - [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 - [x] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
@@ -525,7 +525,7 @@ In case you need deeper study into Linux read follow these:
 
 - [TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
 
-- [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [x] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
 - [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)
 
