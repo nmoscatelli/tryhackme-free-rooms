@@ -58,6 +58,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Intro Rooms
 
+- [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
@@ -243,6 +244,10 @@ In case you need deeper study into Linux read follow these:
 
 ## Cryptography & Hashes
 
+- [TryHackMe | Breaking Crypto the Simple Way](https://tryhackme.com/room/breakingcryptothesimpleway)
+
+- [TryHackMe | Crypto Failures](https://tryhackme.com/room/cryptofailures)
+
 - [TryHackMe | Breaking RSA](https://tryhackme.com/room/breakrsa)
 
 - [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
@@ -336,6 +341,12 @@ In case you need deeper study into Linux read follow these:
 
 ## Forensics
 
+- [TryHackMe | MS Sentinel: Just Looking](https://tryhackme.com/room/justlooking)
+- [TryHackMe | SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage)
+- [TryHackMe | Compromised Windows Analysis](https://tryhackme.com/room/compromisedwindowsanalysis)
+- [TryHackMe | SOC L1 Alert Reporting](https://tryhackme.com/room/socl1alertreporting)
+- [TryHackMe | macOS Forensics: Artefacts](https://tryhackme.com/room/macosforensicsartefacts)
+- [TryHackMe | macOS Forensics: The Basics](https://tryhackme.com/room/macosforensicsbasics)
 - [TryHackMe | FAT32 Analysis](https://tryhackme.com/room/fat32analysis)
 - [TryHackMe | MBR and GPT Analysis](https://tryhackme.com/room/mbrandgptanalysis)
 - [TryHackMe | Supply Chain Attack: Lottie](https://tryhackme.com/r/room/supplychainattacks)
@@ -427,6 +438,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Windows
 
+- [TryHackMe | XDR: Introduction](https://tryhackme.com/room/xdrintroduction)
 - [TryHackMe | Windows Incident Surface](https://tryhackme.com/r/room/winincidentsurface)
 - [TryHackMe | Registry Persistence Detection](https://tryhackme.com/room/registrypersistencedetection)
 - [TryHackMe | Investigating Windows](https://tryhackme.com/room/investigatingwindows)
@@ -462,6 +474,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Easy CTF
 
+- [TryHackMe | Billing](https://tryhackme.com/room/billing)
 - [TryHackMe | Light](https://tryhackme.com/room/lightroom)
 - [TryHackMe | Lo-Fi](https://tryhackme.com/room/lofi)
 - [TryHackMe | Silver Platter](https://tryhackme.com/r/room/silverplatter)
@@ -615,6 +628,10 @@ In case you need deeper study into Linux read follow these:
 
 ## Medium CTF
 
+- [TryHackMe | Mayhem](https://tryhackme.com/room/mayhemroom)
+- [TryHackMe | Robots](https://tryhackme.com/room/robots)
+- [TryHackMe | Hackfinity Battle](https://tryhackme.com/room/HackfinityBattle)
+- [TryHackMe | Rabbit Store](https://tryhackme.com/room/rabbitstore)
 - [TryHackMe | Smol](https://tryhackme.com/room/smol)
 - [TryHackMe | Backtrack](https://tryhackme.com/r/room/backtrack)
 - [TryHackMe | Extracted](https://tryhackme.com/r/room/extractedroom)
@@ -885,6 +902,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Misc
 
+- [TryHackMe | Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927)
 - [TryHackMe | Training Impact on Teams](https://tryhackme.com/r/room/training)
 - [TryHackMe | PaperCut: CVE-2023-27350](https://tryhackme.com/r/room/papercut)
 - [TryHackMe | Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink)
