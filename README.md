@@ -454,7 +454,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Active Directory
 
-- [TryHackMe | AD: Basic Enumeration](https://tryhackme.com/room/adbasicenumeration)
+- [x] [TryHackMe | AD: Basic Enumeration](https://tryhackme.com/room/adbasicenumeration)
 - [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
 - [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 - [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
